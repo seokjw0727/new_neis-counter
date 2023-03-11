@@ -1,3 +1,11 @@
-나이스(NEIS)에 기재하는 생활기록부의 바이트를 계산하는 웹을 개발하고 있습니다.
-
-* 현재 진행상황: index 개발중
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="readme.css">
+<div class="bar">
+</div>
+</head>
+<body>
+개발중 3%
+</body>
+</html>
